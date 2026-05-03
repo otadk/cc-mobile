@@ -1,0 +1,17 @@
+
+╔══════════════════════════════════════════════════╗
+║     Android Claude Code - Setup Complete!        ║
+║                                                  ║
+║  Open your browser and go to:                    ║
+║  → http://localhost:3000                         ║
+║                                                  ║
+║  Start the server:                               ║
+║  $ claude-web start                              ║
+║                                                  ║
+║  Stop the server:                                ║
+║  $ claude-web stop                               ║
+║                                                  ║
+║  Status:                                         ║
+║  $ claude-web status                             ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝

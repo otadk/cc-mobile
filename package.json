@@ -1,0 +1,16 @@
+{
+  "name": "cc-mobile",
+  "version": "1.0.0",
+  "description": "One-command Claude Code setup on Android Termux with browser-based terminal UI",
+  "type": "module",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otadk/cc-mobile"
+  },
+  "keywords": ["claude-code", "termux", "android", "debian", "proot", "mobile"],
+  "license": "MIT"
+}
